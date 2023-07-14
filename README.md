@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### VER6
+
+- 資料會先剖析為文字
+
 ### VER5
 
 - Mapping 會員級別
